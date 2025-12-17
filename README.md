@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nene-hue
+# Hi, I'm Neo Montshiwa
 
 ### A Full-Stack Development intern in South Africa
 
