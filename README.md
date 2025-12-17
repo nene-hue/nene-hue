@@ -14,8 +14,14 @@
 
 ## Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/neo-montshiwa)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/neo-montshiwa)
+<p align="left">
+  <a href="https://linkedin.com/in/neo-montshiwa" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neo montshiwa" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/neo-montshiwa" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neo montshiwa" height="30" width="40" />
+  </a>
+</p>
 
 ## Languages and Tools
 
